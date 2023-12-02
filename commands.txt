@@ -1,0 +1,7 @@
+tsc day01.ts
+node day01.js
+npm run test
+
+tsc day02.ts
+node day02.js
+npm run test day02.test.ts
